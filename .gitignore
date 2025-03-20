@@ -1,0 +1,36 @@
+# Thư mục môi trường ảo
+venv/
+env/
+
+# File tạm của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+*.egg
+
+# File log hoặc dữ liệu tạm
+*.log
+*.pot
+*.pid
+*.seed
+*.bak
+
+# File cấu hình IDE
+.idea/              # PyCharm
+.vscode/            # Visual Studio Code
+*.sublime-project   # Sublime Text
+*.sublime-workspace
+
+# File hệ thống
+.DS_Store           # macOS
+Thumbs.db           # Windows
+
+# File dữ liệu cục bộ hoặc nhạy cảm
+*.env               # File chứa biến môi trường
+*.local
+*.cache
+dist/               # Thư mục build
+build/

@@ -1,0 +1,7 @@
+services:
+  selenium-bot:
+    build: .
+    container_name: selenium-bot
+    restart: always
+    volumes:
+      - .:/app
