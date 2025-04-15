@@ -6,7 +6,13 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 
 # Danh sách các cổng debug của Chrome
-DEBUG_PORTS = ["127.0.0.1:9222", "127.0.0.1:9223", "127.0.0.1:9224", "127.0.0.1:9225", "127.0.0.1:9226", "127.0.0.1:9227"]
+DEBUG_PORTS = [
+    "127.0.0.1:9222",
+    "127.0.0.1:9223",
+    "127.0.0.1:9224",
+    "127.0.0.1:9225",
+    "127.0.0.1:9226",
+    "127.0.0.1:9227"]
 
 # Danh sách User-Agent ngẫu nhiên
 USER_AGENTS = [

@@ -1,0 +1,6 @@
+example@gmail.com,my_password,2FA_SECRET_KEY
+example@gmail.com,my_password,2FA_SECRET_KEY
+example@gmail.com,my_password,2FA_SECRET_KEY
+example@gmail.com,my_password,2FA_SECRET_KEY
+example@gmail.com,my_password,2FA_SECRET_KEY
+example@gmail.com,my_password,2FA_SECRET_KEY
