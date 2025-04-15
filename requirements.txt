@@ -154,6 +154,7 @@ pyobjc-framework-VideoToolbox==11.0
 pyobjc-framework-Virtualization==11.0
 pyobjc-framework-Vision==11.0
 pyobjc-framework-WebKit==11.0
+pyotp==2.9.0
 PySocks==1.7.1
 requests==2.32.3
 selenium==4.29.0
